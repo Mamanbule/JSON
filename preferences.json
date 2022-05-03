@@ -1,0 +1,9 @@
+{
+	"name": "Kovalchuk Dima",
+	"age": "31",
+	"preference":{
+		"films": "x-files",
+		"weather": "summer",
+		"country will visit":"Spain"
+	}
+}
